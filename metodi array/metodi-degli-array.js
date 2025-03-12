@@ -68,3 +68,6 @@ let citta7 = ["Milano", "Torino", "Roma", "Venezia"]
 citta7.shift() // shift mi rimuove il primo elemento dell'array
 
 console.log(citta7)
+
+// Convertire stringhe e array split() join()
+// ﻿﻿﻿Aggiungere e rimuovere elementi unshift() shift() [] push() pop()||
