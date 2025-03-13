@@ -35,7 +35,7 @@ for (let i = 0; i < arrayy.length; i++) {
 
 
     if (arrayy[i] % 2 === 0) {
-        continue // così invece che fermarsi al 24, lo salta, e prosegue con l'elemento dopo
+        continue
     }
     console.log(arrayy[i])
 } 
