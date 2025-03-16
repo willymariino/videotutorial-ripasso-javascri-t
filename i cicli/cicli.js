@@ -16,7 +16,7 @@ for (let i = 0; i < arrayy.length; i++) {
     console.log(arrayy[i])
     //  se invece voglio fermarlo ad un elemento specifico, faccio
     if (arrayy[i] == 24) {
-        break // cosi fermo l'indice [i] in posizione 24 e il console log va sopra, se non va a schermo, perchè si ferma col break
+        break // cosi fermo l'indice [i] in posizione 24 e il console log va sopra a break, perchè se no non va a schermo, perchè si ferma col break
     }
 }
 
